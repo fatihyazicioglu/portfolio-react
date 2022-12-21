@@ -32,8 +32,8 @@ header {
   display: flex;
   justify-content: center;
   img {
-    border-radius: 80%;
-    width: 40%;
+    border-radius: 8%;
+    width: 18%;
   }
 }
 
@@ -42,6 +42,7 @@ header {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 2% 0;
   img {
     width: 30%;
   }
